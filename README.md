@@ -1,1 +1,1 @@
-# Bayesian_Network_Encoder
+# Bayesian Network Encoder
